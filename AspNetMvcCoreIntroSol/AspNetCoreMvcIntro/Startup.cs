@@ -48,6 +48,7 @@ namespace AspNetCoreMvcIntro
 
             app.UseEndpoints(endpoints =>
             {
+                // global routing
                 endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
