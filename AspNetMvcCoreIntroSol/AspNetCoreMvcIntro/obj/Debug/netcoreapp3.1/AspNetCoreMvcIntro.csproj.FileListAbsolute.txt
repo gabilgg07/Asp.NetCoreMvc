@@ -21,12 +21,6 @@
 /Volumes/MySSD/01.Codes/01.VS/01.LessonsCodes/Asp.NetCoreMvc/AspNetMvcCoreIntroSol/AspNetCoreMvcIntro/obj/Debug/netcoreapp3.1/AspNetCoreMvcIntro.TagHelpers.output.cache
 /Volumes/MySSD/01.Codes/01.VS/01.LessonsCodes/Asp.NetCoreMvc/AspNetMvcCoreIntroSol/AspNetCoreMvcIntro/obj/Debug/netcoreapp3.1/AspNetCoreMvcIntro.RazorCoreGenerate.cache
 /Volumes/MySSD/01.Codes/01.VS/01.LessonsCodes/Asp.NetCoreMvc/AspNetMvcCoreIntroSol/AspNetCoreMvcIntro/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
-/Volumes/MySSD/01.Codes/01.VS/01.LessonsCodes/Asp.NetCoreMvc/AspNetMvcCoreIntroSol/AspNetCoreMvcIntro/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
-/Volumes/MySSD/01.Codes/01.VS/01.LessonsCodes/Asp.NetCoreMvc/AspNetMvcCoreIntroSol/AspNetCoreMvcIntro/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
-/Volumes/MySSD/01.Codes/01.VS/01.LessonsCodes/Asp.NetCoreMvc/AspNetMvcCoreIntroSol/AspNetCoreMvcIntro/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
-/Volumes/MySSD/01.Codes/01.VS/01.LessonsCodes/Asp.NetCoreMvc/AspNetMvcCoreIntroSol/AspNetCoreMvcIntro/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
-/Volumes/MySSD/01.Codes/01.VS/01.LessonsCodes/Asp.NetCoreMvc/AspNetMvcCoreIntroSol/AspNetCoreMvcIntro/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
-/Volumes/MySSD/01.Codes/01.VS/01.LessonsCodes/Asp.NetCoreMvc/AspNetMvcCoreIntroSol/AspNetCoreMvcIntro/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
 /Volumes/MySSD/01.Codes/01.VS/01.LessonsCodes/Asp.NetCoreMvc/AspNetMvcCoreIntroSol/AspNetCoreMvcIntro/obj/Debug/netcoreapp3.1/AspNetCoreMvcIntro.RazorTargetAssemblyInfo.cache
 /Volumes/MySSD/01.Codes/01.VS/01.LessonsCodes/Asp.NetCoreMvc/AspNetMvcCoreIntroSol/AspNetCoreMvcIntro/obj/Debug/netcoreapp3.1/AspNetCoreMvcIntro.RazorTargetAssemblyInfo.cs
 /Volumes/MySSD/01.Codes/01.VS/01.LessonsCodes/Asp.NetCoreMvc/AspNetMvcCoreIntroSol/AspNetCoreMvcIntro/obj/Debug/netcoreapp3.1/AspNetCoreMvcIntro.Views.pdb
