@@ -1,8 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "JRBS6aWvvkQ0DrfQIPhV7nxSJoX0rm/9aT7caLk8zhLoT74NIl6FRaZJYbH2RHYiIdXjox27HpAFAz5c+jeMRA==",
+  "dgSpecHash": "1/ZMwk/Az2xceEYoaqcsMNY0Kkle/hGbA3n1LBKxM9Pz0mezzNTT3hIfvYBHwM0fLO5gxS0gboTxWlBw3yZAOA==",
   "success": true,
   "projectFilePath": "/Volumes/MySSD/01.Codes/01.VS/01.LessonsCodes/Asp.NetCoreMvc/AspNetMvcCoreIntroSol/AspNetCoreMvcIntro/AspNetCoreMvcIntro.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/macbook/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/microsoft.web.librarymanager.build/2.1.175/microsoft.web.librarymanager.build.2.1.175.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/system.io/4.3.0/system.io.4.3.0.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/system.reflection/4.3.0/system.reflection.4.3.0.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/system.reflection.primitives/4.3.0/system.reflection.primitives.4.3.0.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/system.runtime/4.3.0/system.runtime.4.3.0.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/system.runtime.loader/4.3.0/system.runtime.loader.4.3.0.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/system.text.encoding/4.3.0/system.text.encoding.4.3.0.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/system.threading.tasks/4.3.0/system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
   "logs": []
 }

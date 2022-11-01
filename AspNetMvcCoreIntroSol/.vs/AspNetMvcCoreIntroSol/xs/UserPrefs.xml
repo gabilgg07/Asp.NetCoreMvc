@@ -1,4 +1,35 @@
 ﻿<Properties StartupConfiguration="{C2920622-0678-4092-9849-BADB4AEF6E5F}|Default">
-  <MonoDevelop.Ide.ItemProperties.AspNetCoreMvcIntro FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AspNetCoreMvcIntro/Views/Home/Index.cshtml">
+    <Files>
+      <File FileName="AspNetCoreMvcIntro/Views/Home/Index.cshtml" Line="22" Column="44" />
+      <File FileName="AspNetCoreMvcIntro/Controllers/HomeController.cs" Line="13" Column="37" />
+      <File FileName="AspNetCoreMvcIntro/Startup.cs" Line="39" Column="100" />
+      <File FileName="AspNetCoreMvcIntro/Program.cs" Line="16" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AspNetMvcCoreIntroSol" expanded="True">
+            <Node name="AspNetCoreMvcIntro" expanded="True" selected="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AspNetCoreMvcIntro PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
