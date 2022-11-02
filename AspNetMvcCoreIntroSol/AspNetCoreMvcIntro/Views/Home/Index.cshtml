@@ -1,4 +1,5 @@
-﻿@{
+﻿
+@{
     int a = 54;
     int b = 65;
     int c;
@@ -6,100 +7,87 @@
     int d = 56;
 }
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" >
-    <link rel="stylesheet" href="~/assets/css/style.min.css" />
-    <title>Home</title>
-</head>
-<body>
-    <div class="container">
-        <!-- [Html Comment] -->
-        <h1>ASP Net MVC Core Home Page</h1>
-        <button id="btnSayHello" class="btn btn-outline-success">Salam deyek</button>
 
-        @*
+<div class="container first-pages">
+    <!-- [Html Comment] -->
+    <h1>ASP Net MVC Core Home Page</h1>
+    <button id="btnSayHello" class="btn btn-outline-success">Salam deyek</button>
+
+    @*
         [Razor Comment]
-        *@
+    *@
 
-        <ul style="margin-top: 20px">
-            <li style="">
-                <a href="page1.html">Page 1</a>
-            </li>
-            <li>
-                <a href="page2.html">Page 2</a>
-            </li>
-        </ul>
+    <ul style="margin-top: 20px">
+        <li style="">
+            <a href="page1.html">Page 1</a>
+        </li>
+        <li>
+            <a href="page2.html">Page 2</a>
+        </li>
+    </ul>
 
-        <table class="table table-bordered">
-            <thead class="thead-dark">
-                <tr>
-                    <th scope="col">Text</th>
-                    <th scope="col">Razor Expression</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <td>5 + 3</td>
-                    <td>@(5 + 3)</td>
-                </tr>
-                <tr>
-                    <td>"hello " + "world"</td>
-                    <td>@("hello " + "world")</td>
-                </tr>
-                <tr>
-                    <td>c</td>
-                    <td>@c</td>
-                </tr>
-                <tr>
-                    <td>
-                        if (d % 2 == 0)
-                        {
+    <table class="table table-bordered">
+        <thead class="thead-dark">
+            <tr>
+                <th scope="col">Text</th>
+                <th scope="col">Razor Expression</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>5 + 3</td>
+                <td>@(5 + 3)</td>
+            </tr>
+            <tr>
+                <td>"hello " + "world"</td>
+                <td>@("hello " + "world")</td>
+            </tr>
+            <tr>
+                <td>c</td>
+                <td>@c</td>
+            </tr>
+            <tr>
+                <td>
+                    if (d % 2 == 0)
+                    {
+                    <span>cutdur</span>
+                    }
+                    else
+                    {
+                    <span>tekdir</span>
+                    }
+                </td>
+                <td>
+                    @if (d % 2 == 0)
+                    {
                         <span>cutdur</span>
-                        }
-                        else
-                        {
+                    }
+                    else
+                    {
                         <span>tekdir</span>
-                        }
-                    </td>
-                    <td>
-                        @if (d % 2 == 0)
-                        {
-                            <span>cutdur</span>
-                        }
-                        else
-                        {
-                            <span>tekdir</span>
-                        }
-                    </td>
-                </tr>
-                <tr>
-                    <td>
+                    }
+                </td>
+            </tr>
+            <tr>
+                <td>
 
-                        <ul style="display:flex">
-                            for (int i = 0; i < 10; i++)
-                            {
-                            <li>i</li>
-                            }
-                        </ul>
-                    </td>
-                    <td>
-                        <ul style="display:flex">
-                            @for (int i = 0; i < 10; i++)
-                            {
-                                <li>@i</li>
-                            }
-                        </ul>
-                    </td>
-                </tr>
-            </tbody>
-        </table>
-    </div>
-   
-    <script src="~/assets/js/script.js"></script>
-</body>
-</html>
+                    <ul style="display:flex">
+                        for (int i = 0; i < 10; i++)
+                        {
+                        <li>i</li>
+                        }
+                    </ul>
+                </td>
+                <td>
+                    <ul style="display:flex">
+                        @for (int i = 0; i < 10; i++)
+                        {
+                            <li>@i</li>
+                        }
+                    </ul>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+

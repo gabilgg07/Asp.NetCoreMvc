@@ -16,6 +16,16 @@ namespace AspNetCoreMvcIntro.Controllers
             return View();
         }
 
+        public IActionResult About()
+        {
+            return View();
+        }
+
+        public IActionResult Login()
+        {
+            return View();
+        }
+
         public IActionResult GetPerson()
 
         //public JsonResult GetPerson()

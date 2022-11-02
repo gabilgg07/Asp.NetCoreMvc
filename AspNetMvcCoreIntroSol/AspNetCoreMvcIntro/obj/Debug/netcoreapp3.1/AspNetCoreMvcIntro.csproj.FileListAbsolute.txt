@@ -28,3 +28,7 @@
 /Volumes/MySSD/01.Codes/01.VS/01.LessonsCodes/Asp.NetCoreMvc/AspNetMvcCoreIntroSol/AspNetCoreMvcIntro/obj/Debug/netcoreapp3.1/AspNetCoreMvcIntro.pdb
 /Volumes/MySSD/01.Codes/01.VS/01.LessonsCodes/Asp.NetCoreMvc/AspNetMvcCoreIntroSol/AspNetCoreMvcIntro/obj/Debug/netcoreapp3.1/AspNetCoreMvcIntro.genruntimeconfig.cache
 /Volumes/MySSD/01.Codes/01.VS/01.LessonsCodes/Asp.NetCoreMvc/AspNetMvcCoreIntroSol/AspNetCoreMvcIntro/obj/Debug/netcoreapp3.1/AspNetCoreMvcIntro.csproj.CopyComplete
+/Volumes/MySSD/01.Codes/01.VS/01.LessonsCodes/Asp.NetCoreMvc/AspNetMvcCoreIntroSol/AspNetCoreMvcIntro/obj/Debug/netcoreapp3.1/Razor/Views/Home/About.cshtml.g.cs
+/Volumes/MySSD/01.Codes/01.VS/01.LessonsCodes/Asp.NetCoreMvc/AspNetMvcCoreIntroSol/AspNetCoreMvcIntro/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Volumes/MySSD/01.Codes/01.VS/01.LessonsCodes/Asp.NetCoreMvc/AspNetMvcCoreIntroSol/AspNetCoreMvcIntro/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Volumes/MySSD/01.Codes/01.VS/01.LessonsCodes/Asp.NetCoreMvc/AspNetMvcCoreIntroSol/AspNetCoreMvcIntro/obj/Debug/netcoreapp3.1/Razor/Views/Home/Login.cshtml.g.cs

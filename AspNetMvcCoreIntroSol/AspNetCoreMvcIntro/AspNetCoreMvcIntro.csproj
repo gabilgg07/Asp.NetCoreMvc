@@ -10,6 +10,7 @@
     <None Remove="Controllers\" />
     <None Remove="Views\Home\" />
     <None Remove="Microsoft.Web.LibraryManager.Build" />
+    <None Remove="Views\Shared\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\" />
@@ -24,6 +25,7 @@
     <Folder Include="wwwroot\assets\js\" />
     <Folder Include="wwwroot\assets\img\" />
     <Folder Include="wwwroot\assets\scss\" />
+    <Folder Include="Views\Shared\" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="wwwroot\" />
